@@ -6,7 +6,7 @@
 
 This project is a web-based job application form designed to collect user details for job applications.
 
-## Link -> **[View Project](https://github.com/anirudha-8/Job_Application_Form.git)**
+## Link -> **[View Project](https://anirudha-8.github.io/Job_Application_Form/)**
 
 ## Project Overview
 
