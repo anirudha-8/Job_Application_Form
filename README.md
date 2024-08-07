@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="./src/images/job_application_form.png" width="200" style="border-radius: 1rem">
     <h1>Job Application Form (Web)</h1>
 </div>
 
