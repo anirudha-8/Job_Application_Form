@@ -7,18 +7,24 @@
 
 This project is a web-based job application form designed to collect user details for job applications.
 
-## Link -> **[View Project](#)** (Replace with actual link)
+## Link -> **[View Project](https://github.com/anirudha-8/Job_Application_Form.git)**
 
 ## Project Overview
 
 The job application form features:
 
 - **First Name and Last Name fields** for capturing the applicant's name.
+
 - **Email field** to collect the applicant's email address.
+
 - **Job Role dropdown** for selecting the job role being applied for.
+
 - **Address field** to capture the applicant's address.
+
 - **City and Pincode fields** for location details.
+
 - **Start Date field** to indicate the preferred start date.
+
 - **File upload option** to allow applicants to upload their CVs.
 - **Submit button** to submit the form.
 
@@ -29,14 +35,19 @@ The form design is clean and user-friendly, with clearly labeled fields and a pr
 ### Key Design Elements
 
 - **Form Title:** "Job Application (Web)" in a bold font.
+
 - **Input Fields:** Organized layout for easy data entry.
+
 - **Dropdown Menu:** For job role selection.
+
 - **File Upload:** Allows for CV attachment.
+
 - **Submit Button:** Clearly marked "Apply Now" in a red color for emphasis.
 
 ## Technologies Used
 
 - **HTML5** for structuring the form.
+
 - **CSS3** for styling, including layout, typography, and colors.
 
 ## Getting Started
@@ -56,7 +67,9 @@ To view the project locally:
 Some potential enhancements include:
 
 - Adding client-side validation to ensure all required fields are filled.
+
 - Enhancing the design with animations or transitions for a more interactive experience.
+
 - Integrating with a backend server to store the form submissions.
 
 ---
